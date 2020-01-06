@@ -1,1 +1,3 @@
+# this file is needed to create the http://monticore.github.io/ page
+# but this theme is never shown, so it does not matter what theme is selected here
 theme: jekyll-theme-cayman
